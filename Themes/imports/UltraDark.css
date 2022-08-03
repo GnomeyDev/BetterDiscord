@@ -45,3 +45,11 @@
 	--bdfdb-yellow:					rgb(var(--warningcolor));
 	--bdfdb-red:					rgb(var(--dangercolor));
 }
+
+.uploadArea-2Nu_Vc,
+.backdrop-1BR_bn,
+.backdrop-2ByYRN {
+	background: transparent !important;
+	opacity: 1 !important;
+	animation: none !important;
+}
